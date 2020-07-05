@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "rxjs": "^6.5.3",
     "typescript": "^3.6.3",
     "webpack": "^4.40.2",
